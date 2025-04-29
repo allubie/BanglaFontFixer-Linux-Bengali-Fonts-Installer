@@ -10,7 +10,7 @@ BanglaFontFixer is an open-source Bash script that automates the installation of
 ##  Installation
 ```sh
 git clone https://github.com/allubie/FontFixBangla.git
-cd /home/$USER/BanglaFontFixer/fonts/
+cd /home/$USER/FontFixBangla/fonts/
 chmod +x ./install.sh
 ./install.sh
 ```
